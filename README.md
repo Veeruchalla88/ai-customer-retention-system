@@ -21,6 +21,18 @@ This project helps businesses identify customers who are likely to leave (churn)
 
 ---
 
+## 📸 Screenshots
+### Single Prediction Page
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/9df44ad3-5bb3-4d52-ab93-ce16bb146aac" />
+### SHAP Explainability
+<img width="1912" height="902" alt="image" src="https://github.com/user-attachments/assets/df336ccb-48da-4a6f-b555-5fa11e2cc764" />
+### Bulk Prediction System
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/235f72f5-49fb-494f-9a36-ddb8e5aeec3c" />
+### Dashboard Analytics
+<img width="1897" height="906" alt="image" src="https://github.com/user-attachments/assets/d0acc67d-027c-4c28-9be2-ad4f164ecd80" />
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/aba5babd-c13b-4e3b-8736-342fea32561d" />
+
+
 # 📊 Dashboard Analytics
 
 The dashboard provides:
