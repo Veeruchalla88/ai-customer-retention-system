@@ -1,5 +1,7 @@
 # 🏦 AI Customer Retention System
+# 🌐 Live Demo
 
+🔗 Live App: https://ai-customer-retention-system-dndph7mcgd9pzcndz5vxgc.streamlit.app/
 An AI-powered customer churn prediction and retention analytics platform built using Machine Learning and Streamlit.
 
 This project helps businesses identify customers who are likely to leave (churn) and provides intelligent retention recommendations based on customer behavior and financial attributes.
